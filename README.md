@@ -23,7 +23,7 @@ Description: Clinical research datasets play a crucial role in the development o
 
 ## Course material
 
-- [ARVO-2025-FAIR-AI-ready.pdf): pdf slides of our course.
+- [ARVO-2025-FAIR-AI-ready.pdf](ARVO-2025-FAIR-AI-ready.pdf): pdf slides of our course.
 
 ## Resources
 
