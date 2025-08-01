@@ -18,7 +18,7 @@ Description: Clinical research datasets play a crucial role in the development o
 
 | Type            | Date & Time             | Authors                          | Session / Location                                              | Details |
 | --------------- | -----------------|--------------------------------- |------------------------------------------------------ |------------------- |
-| Course          |  Saturday, May 2, 2025, 1:45 – 2:05pm pm MT | Bhavesh Patel (presenter) | Session 3: Fundamentals of model training and federated learning  |[See the page of the "Artificial Intelligence for ophthalmic research" course](https://www.arvo.org/annual-meeting/program/education-sessions/education-sessions-ai/) |
+| Course          |  Saturday, May 3, 2025, 1:45 – 2:05 pm MT | Bhavesh Patel (presenter) | Session 3: Fundamentals of model training and federated learning  |[See the page of the "Artificial Intelligence for ophthalmic research" course](https://www.arvo.org/annual-meeting/program/education-sessions/education-sessions-ai/) |
 
 
 ## Course material
